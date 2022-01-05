@@ -1,6 +1,6 @@
 ### Hello World! / こんにちは世界! 👋
 - 🔭 I’m currently working as a Robotics Engineer :robot: in Singapore  ![image](https://user-images.githubusercontent.com/79893112/147637992-cd72ca9b-7f8d-400a-8c09-571bfde7327e.png)
-- 🌱 I’m currently learning Robotics Engineering and Computer Vision.
+- 🌱 I’m currently learning Robotics Engineering and Autonomous Navigation
 - 💬 Ask me about the Japanese language and Basketball
 - 😄 Pronouns: He / Him
 <!--

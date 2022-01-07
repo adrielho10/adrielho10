@@ -28,7 +28,7 @@
 [<img alt="Rviz" width="7.6%" src="https://raw.githubusercontent.com/ros-visualization/rviz/melodic-devel/images/splash.png" />](http://wiki.ros.org/rviz)
 [<img alt="Autodesk Fusion360" width="13.5%" src="https://www.tonythings.com/wp-content/uploads/2018/04/logo.png" />](https://www.autodesk.com.sg/products/fusion-360/overview)
 [<img alt="Autodesk Inventor" width="7.6%" src="https://5.imimg.com/data5/AR/XG/GO/SELLER-62529511/autodesk-inventor-500x500.jpg" />](https://www.autodesk.com.sg/products/inventor/overview)
-[<img alt="Autodesk Eagle" width="5%" src="https://yt3.ggpht.com/ytc/AKedOLRs6t9k8adI1DVVHWAI9vMY2DW8PvseQHIU51GoRg=s900-c-k-c0x00ffffff-no-rj" />](https://www.autodesk.com/products/eagle/overview)
+[<img alt="Autodesk Eagle" width="4.9%" src="https://yt3.ggpht.com/ytc/AKedOLRs6t9k8adI1DVVHWAI9vMY2DW8PvseQHIU51GoRg=s900-c-k-c0x00ffffff-no-rj" />](https://www.autodesk.com/products/eagle/overview)
 [<img alt="Solidworks" width="9%" src="https://entrepreneurship.ieee.org/wp-content/uploads/2018/02/solidworks-logo-large-300x150.png" />](https://www.solidworks.com/)
 
 ### Stats for fun

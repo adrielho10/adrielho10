@@ -1,7 +1,8 @@
-### Hello World! / こんにちは世界! 👋
-- 🔭 I’m currently working as a Robotics Engineer :robot: in Singapore  ![image](https://user-images.githubusercontent.com/79893112/147637992-cd72ca9b-7f8d-400a-8c09-571bfde7327e.png)
-- 🌱 I’m currently learning Robotics Engineering and Autonomous Navigation
-- 💬 Ask me about the Japanese language and Basketball
+### Hello World! / こんにちは世界! 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/adrielho10)
+- :school: I'm Adriel Ho, have pursued B.Eng(MAE) from <a href="https://www.ntu.edu.sg//">@Nanyang Technological University  </a>
+- 🔭 I’m currently working as a **Robotics Engineer** :robot: in Singapore  ![image](https://user-images.githubusercontent.com/79893112/147637992-cd72ca9b-7f8d-400a-8c09-571bfde7327e.png)
+- 🌱 I’m currently learning **Robotics Engineering** and **Autonomous Navigation**
+- 💬 Ask me about the **Japanese language**, **Coffee** and **Basketball**
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: 
 
@@ -15,6 +16,9 @@
 [<img alt="ROS" width="5%"  height="42" src="https://www.embarcados.com.br/wp-content/uploads/2019/06/ros.png" />](https://www.google.com/search?&q=ROS)
 [<img alt="SublimeText" width="5%" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/sublime.svg" />](https://www.google.com/search?&q=ROS)
 
-![Adriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrielho10&hide=contribs,prs,stars&count_private=true&show_icons=true&theme=slateorange)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrielho10&repo=github-readme-stats)](https://github.com/adrielho10/github-readme-stats) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrielho10)](https://github.com/adrielho10/github-readme-stats)
+![Adriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrielho10&hide=contribs,prs,stars&count_private=true&show_icons=true&theme=slateorange) <br />
+<img src="https://activity-graph.herokuapp.com/graph?username=adrielho10&theme=nord&bg_color=20232a&hide_border=true" width="90%">
+
+</div>
+</details>
+<!-- end statics fun section -->

@@ -32,6 +32,10 @@
 [<img alt="Solidworks" width="11%" src="https://entrepreneurship.ieee.org/wp-content/uploads/2018/02/solidworks-logo-large-300x150.png" />](https://www.solidworks.com/)
 
 ### Stats for fun
+<a href="https://github.com/adrielho10/adrielho10">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielho10&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
 ![Adriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrielho10&hide=contribs,prs,stars&count_private=true&show_icons=true&theme=nord) <br />
 <img src="https://activity-graph.herokuapp.com/graph?username=adrielho10&theme=nord&bg_color=20232a&hide_border=true" width="90%">
 

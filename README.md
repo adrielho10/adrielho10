@@ -33,7 +33,7 @@
 
 ### Stats for fun
 <a href="https://github.com/adrielho10/github-readme-stats">
-  <img align="center" src="https://github-readme-stats2-kappa.vercel.app/api/top-langs/?username=adrielho10&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats2-kappa.vercel.app/api/top-langs/?username=adrielho10&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&layout=compact" />
 </a>
 
 ![Adriel's GitHub stats](https://github-readme-stats2-kappa.vercel.app/api?username=adrielho10&hide=contribs,prs,stars&count_private=true&show_icons=true&theme=nord) <br />

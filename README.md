@@ -1,6 +1,6 @@
 ### Hello World! / こんにちは世界! 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/adrielho10)
 - :mortar_board: I'm Adriel Ho, have pursued B.Eng(MAE) from <a href="https://www.ntu.edu.sg//">@Nanyang Technological University  </a>
-- 🔭 I’m currently working as a **Robotics Research Engineer** :robot: in Singapore ![image](https://user-images.githubusercontent.com/79893112/147637992-cd72ca9b-7f8d-400a-8c09-571bfde7327e.png)
+- 🔭 I’m currently working as a **Robotics R&D Engineer** :robot: in Singapore :singapore:
 - 🌱 I’m currently learning **Robotics Engineering** and **ADAS (Advanced driver-assistance systems)**
 - 💬 Ask me about **Coffee**, the **Japanese language** and **Basketball**
 - 😄 Pronouns: He / Him

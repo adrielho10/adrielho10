@@ -15,6 +15,7 @@
 ### 🧰 Frameworks and libraries <br />
 [<img alt="Arduino" width="5%" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" />](https://www.arduino.cc/)
 [<img alt="ROS" width="7.5%" src="https://www.embarcados.com.br/wp-content/uploads/2019/06/ros.png" />](https://www.google.com/search?&q=ROS)
+[<img alt="ROS2" width="7%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK1SKb1iD7ND7XrZhHhs4wOttamRSa2CMn-dQuRKtHRkyqUJj0FYg92MRJ-Bgk8zrrQiM&usqp=CAU" />](https://www.google.com/search?&q=ROS)
 [<img alt="OpenCV" width="5%" src="https://carlosan.me/uploads/OpenCV_Logo.png" />](https://opencv.org/)
 [<img alt="Numpy" width="4.2%" src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" />](https://opencv.org/)
 [<img alt="Tensorflow" width="4.2%" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />](https://www.tensorflow.org/)

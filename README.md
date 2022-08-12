@@ -1,7 +1,7 @@
 ### Hello World! / こんにちは世界! 👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/adrielho10)
 - :mortar_board: I'm Adriel Ho, have pursued B.Eng(MAE) from <a href="https://www.ntu.edu.sg//">@Nanyang Technological University  </a>
 - 🔭 I’m currently working as a **Robotics Development Engineer** :robot: at ROS-Industrial APAC in Singapore :singapore:
-- 🌱 I’m currently learning **Autonomous navigation** and **Robot fleet interoperations**
+- 🌱 I’m currently learning **Autonomous navigation** and **Interoperability among robot fleets**
 - 💬 Ask me about **Coffee**, the **Japanese language** and **Basketball**
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I'm a bathroom singing addict

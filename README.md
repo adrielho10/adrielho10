@@ -42,10 +42,7 @@
 [<img alt="RabbitMQ" width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSdkZZ2G6yloPZgSzgdmt5sWzFNaXIk7SVhQ&s" />](https://www.rabbitmq.com/)
 
 ### Stats for fun
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adrielho10&theme=react-dark)](https://github.com/adrielho10/github-readme-activity-graph)
-
-
+![ZappaBoy GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=adrielho10&gitlabUsername=adrielho10)
 <br />
 
 <p align="center">

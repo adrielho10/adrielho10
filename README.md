@@ -1,7 +1,7 @@
 ### Hello World! / こんにちは世界! 👋  ![](https://komarev.com/ghpvc/?username=adrielho10&color=blue)
 - :mortar_board: I'm Adriel Ho, have pursued B.Eng(MAE) from <a href="https://www.ntu.edu.sg//">@Nanyang Technological University  </a>
 - 🔭 I’m currently working as a **Robotics Software Engineer** :robot: at ROS-Industrial APAC in Singapore :singapore:
-- 🌱 I’m currently learning **Interoperability Among Robot Fleets** and **simulation engine development**
+- 🌱 I’m currently learning **Interoperability Among Robot Fleets**
 - 💬 Ask me about **Coffee**, the **Japanese language** and **Basketball**
 - ⚡ Fun fact: I'm a bathroom-singing addict
 
